@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/chriswmercer/ElectronScreenRecorder#readme",
   "devDependencies": {
-    "electron": "^8.3.0",
+    "electron": "^15.5.5",
     "electron-squirrel-startup": "^1.0.0"
   }
 }
